@@ -99,7 +99,7 @@ Here are some ideas to get you started:
   <a href="mailto:saumya123na@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40"/>
   </a>
-  <a href="www.linkedin.com/in/saumya-nethmini-641131235" target="_blank">
+  <a href="linkedin.com/in/saumya-nethmini-641131235" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://github.com/sau123nethmini" target="_blank">
