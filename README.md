@@ -10,7 +10,7 @@
 ### 👩‍💻 About Me:
 
 * 🔭 I’m currently studying at **SLIIT**
-* 🌱 I’m currently learning **React**
+* 🌱 I’m work at **Octo Global (Pvt) Ltd**
 * 📧 Reach me at **[saumya123na@gmail.com](mailto:saumya123na@gmail.com)**
 
 ---
