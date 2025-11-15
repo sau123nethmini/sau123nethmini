@@ -161,9 +161,3 @@ I'm passionate about building beautiful, functional web applications and am alwa
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote" />
-</div>
